@@ -1,3 +1,6 @@
 # feriado-service
 
-  Esse é um respositorio teste.
+  Project Java!
+
+  - Carlos Eduardo Santin
+  - Bruno Danni Altenhofen
